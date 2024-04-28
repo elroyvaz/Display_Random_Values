@@ -2,7 +2,7 @@
 
 ### Introduction
 
-Welcome to the Data Analyst repository! This repository contains an Excel project designed to facilitate the generation and analysis of triangularly distributed random numbers. The project includes a spreadsheet application that allows users to input random values, sort them according to minimum, most likely, and maximum values, and visualize the data using bar graphs.
+Welcome to the Data Analyst repository! This repository contains an Excel project designed to facilitate the generation and analysis of triangularly distributed random numbers. The project includes a spreadsheet application that allows users to input random values, sort them according to minimum, most likely, and maximum values, and visualize the data using bar graphs. Tools: VBA & Excel 
 
 ### Sections
 
